@@ -1,0 +1,98 @@
+# Agent Notes - Growth App Enhancement - ONGOING
+
+## Project Info
+- **Repo:** https://github.com/Redweyne/Growth
+- **Email:** aposlash2021@gmail.com
+- **Git Commands Available:** YES - use bash for all git operations
+
+## Tech Stack
+- Backend: FastAPI (Python) on port 8001
+- Frontend: React on port 3000
+- Database: MongoDB
+- AI: Emergent LLM Key for AI Coach (Gemini 2.5 Flash)
+
+## Commands I Can Use
+- sudo supervisorctl restart frontend/backend/all
+- git add, commit, push, pull
+- curl for API testing
+- pip install, yarn add for packages
+- All bash commands available
+
+## USER'S CORE DEMAND
+Make this app BREATHTAKING - shock the world - GENUINELY help people transform.
+NOT childish colors/particles - MEANINGFUL and ROBUST functionality.
+Every feature should be 1000x better - not superficial improvements.
+
+## CURRENT SESSION - IMPROVEMENT ROADMAP
+
+### Phase 1: Foundation Robustness (IN PROGRESS)
+1. [x] Fix backend URL configuration issues
+2. [ ] Ensure all API endpoints work correctly
+3. [ ] Test authentication flow
+
+### Phase 2: Core Feature Enhancement
+1. [ ] Dashboard - Make it a daily command center, not just stats
+2. [ ] Goals - Add weekly reflections, obstacle logging
+3. [ ] Habits - Make streaks feel addictive, add identity statements
+4. [ ] Journal - Deeper prompts, AI-powered pattern recognition
+5. [ ] AI Coach - Context-aware using user's burning desire/fears/goals
+
+### Phase 3: Soul of the App
+1. [ ] Burning Desire System - Daily visualization with user's own words
+2. [ ] Identity Evolution - Track transformation evidence
+3. [ ] Morning Algorithm - Make it a powerful daily ritual
+
+### Phase 4: Polish
+1. [ ] Analytics - Visualization that MOVES people
+2. [ ] Celebration moments - Make achievements feel meaningful
+3. [ ] Consistency tracking - Show compound effect visually
+
+## WORKING NOTES
+- Frontend hot-reloads automatically
+- Backend needs restart only for dependency changes
+- Always test after significant changes
+- Commit frequently, push regularly
+
+## PROGRESS LOG
+- Session started: Pulled repo from GitHub
+- Fixed backend-frontend connection issue (added proxy config)
+- Created comprehensive documentation: CURRENT_STATUS_OF_THE_APP.md
+- Analyzed ALL 25+ pages and features thoroughly
+- Documented every API endpoint, data model, and feature
+- File saved and committed to repo
+- App is fully operational and documented
+- Current state: App is functional but needs MORE DEPTH and EMOTIONAL IMPACT
+
+## NEW SESSION - "WHY THIS WORKS" BUTTON IMPLEMENTATION
+- OBJECTIVE: Add "Learn Why This Works" buttons to ALL major feature pages
+- These buttons will link to PhilosophyPage with deep explanations
+- Pages that need this button:
+  * Goals.jsx
+  * Habits.jsx  
+  * Journal.jsx
+  * VisionBoard.jsx
+  * Exercises.jsx
+  * AICoach.jsx
+  * Analytics.jsx
+  * RitualMode.jsx
+  * WisdomLibrary.jsx
+  * BurningDesire.jsx
+  * IdentityEvolution.jsx
+  * ObstacleTransformer.jsx
+  * HabitStacking.jsx
+  * MorningAlgorithm.jsx
+  * PremeditatioPractice.jsx
+  
+- STATUS: Starting implementation
+- COMMITTING AFTER EACH PAGE UPDATE
+
+## IMPORTANT FILES
+1. **CURRENT_STATUS_OF_THE_APP.md** - COMPLETE documentation of entire app
+   - Read this FIRST in every new session
+   - Contains ALL features, API endpoints, data models, tech stack
+   - Implementation status of all features
+   - Recent fixes and configuration details
+   
+2. **agent_notes** - This file - session context and roadmap
+
+3. **NEW_OBJECTIVES.md** - Feature roadmap organized by phases

@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Redweyne/Growth",
+  "author": "Redweyne <aposlash2021@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "autoprefixer": "^10.4.22",
+    "axios": "^1.13.2",
+    "postcss": "^8.5.6",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^7.10.1",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^4.1.17"
+  }
+}
